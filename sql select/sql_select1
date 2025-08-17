@@ -1,1 +1,2 @@
-sdjfsdf
+Buscar libro por título
+SELECT libro_id, titulo FROM Libros WHERE titulo ILIKE '%soledad%';
